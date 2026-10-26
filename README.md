@@ -19,9 +19,6 @@ data class Developer(
     val name: String = "Vy Sengchhay",
     val role: String = "Mobile App Developer",
     val location: String = "Phnom Penh, Cambodia 🇰🇭",
-    val education: String = "BSc Management Information Systems @ SETEC Institute (Sophomore)",
-    val focus: List<String> = listOf("Android", "Kotlin", "Jetpack Compose", "Clean Architecture"),
-    val currentlyLearning: List<String> = listOf("Kotlin Multiplatform", "Spring Boot", "Docker")
 )
 ```
 
