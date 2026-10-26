@@ -21,11 +21,6 @@ data class Developer(
 )
 ```
 
-- 📱 I build modern, responsive Android apps with **Kotlin** and **Jetpack Compose**
-- 🏗️ I structure apps with **MVVM**, **Clean Architecture**, and **Hilt** dependency injection
-- 🔄 I handle state with **Coroutines & StateFlow** and connect to REST APIs with **Retrofit**
-- 🌱 Right now I'm learning **Kotlin Multiplatform** and backend development
-
 ---
 
 ## 🛠️ Tech Stack
