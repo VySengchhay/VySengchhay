@@ -1,11 +1,6 @@
-<!-- Header banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:073042&height=200&section=header&text=Vy%20Sengchhay&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Mobile%20App%20Developer%20%7C%20Android%20%26%20Kotlin&descAlignY=58&descSize=18" alt="header" />
-</p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vy+Sengchhay+%F0%9F%91%8B;Android+Developer+%F0%9F%93%B1;Kotlin+%2B+Jetpack+Compose+Enthusiast;Open+to+Android+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vy+Sengchhay+%F0%9F%91%8B;Android+Developer+%F0%9F%93%B1;Kotlin+%2B+Jetpack+Compose+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,8 +21,7 @@ data class Developer(
     val location: String = "Phnom Penh, Cambodia 🇰🇭",
     val education: String = "BSc Management Information Systems @ SETEC Institute (Sophomore)",
     val focus: List<String> = listOf("Android", "Kotlin", "Jetpack Compose", "Clean Architecture"),
-    val currentlyLearning: List<String> = listOf("Kotlin Multiplatform", "Spring Boot", "Docker"),
-    val lookingFor: String = "Android Developer Internship 🚀"
+    val currentlyLearning: List<String> = listOf("Kotlin Multiplatform", "Spring Boot", "Docker")
 )
 ```
 
@@ -35,7 +29,6 @@ data class Developer(
 - 🏗️ I structure apps with **MVVM**, **Clean Architecture**, and **Hilt** dependency injection
 - 🔄 I handle state with **Coroutines & StateFlow** and connect to REST APIs with **Retrofit**
 - 🌱 Right now I'm learning **Kotlin Multiplatform** and backend development
-- 💼 I'm looking for an **Android Developer Internship** to work on real-world apps
 
 ---
 
@@ -102,7 +95,7 @@ data class Developer(
 
 ## 🤝 Let's Connect
 
-I'm always happy to talk about Android development, Kotlin, or internship opportunities.
+I'm always happy to talk about Android development, Kotlin, and mobile apps.
 
 <p>
   <a href="mailto:sengchhaygg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
