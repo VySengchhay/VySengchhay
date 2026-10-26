@@ -28,7 +28,7 @@ data class Developer(
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cs,js,html,css&theme=dark" />
 </p>
 
 **Android & Mobile**
