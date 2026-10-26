@@ -64,18 +64,6 @@ data class Developer(
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 📱 **[Portfolio App](https://github.com/VySengchhay)** | A modern Android portfolio app with reusable UI components and complex screens | Kotlin, Compose, Navigation 3, MVVM, StateFlow, Hilt |
-| 🏦 **[SmartBank](https://github.com/VySengchhay)** | A banking app practice project | Kotlin, Compose |
-| 🍔 **[Food Delivery](https://github.com/VySengchhay)** | A food ordering app UI and flow | Kotlin, Compose |
-| 🛒 **[E-commerce App](https://github.com/VySengchhay)** | A shopping app with product browsing and cart | Kotlin, REST API |
-| ✅ **[Todo Full-Stack](https://github.com/VySengchhay)** | A todo app with its own backend API | Spring Boot, Database |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -100,8 +88,6 @@ I'm always happy to talk about Android development, Kotlin, and mobile apps.
 <p>
   <a href="mailto:sengchhaygg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/VySengchhay"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- Add your LinkedIn: replace YOUR-LINKEDIN below -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
