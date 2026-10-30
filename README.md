@@ -25,10 +25,13 @@ data class Developer(
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cs,js,html,css,tailwind,nodejs,express,spring,postgres,mongodb,docker,git,github,androidstudio,postman,vscode&perline=9&theme=dark" />
+</p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,cs,js,html,css&theme=dark" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
 
 **Android & Mobile**
@@ -42,20 +45,6 @@ data class Developer(
   <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white" />
   <img src="https://img.shields.io/badge/Coroutines%20%26%20StateFlow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
-
-**Backend, Database & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgres,mongodb,docker,git,github,androidstudio,postman,vscode&theme=dark" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-**Architecture**
-
-`MVVM` · `Clean Architecture` · `Dependency Injection` · `REST APIs` · `State Management`
 
 ---
 
